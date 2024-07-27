@@ -10,7 +10,7 @@ to perform the following operations:
 
 Node version : 18.20.0
 Steps:
-1. Open the folder in VSCode or any code editor
+1. Git clone the repository 
 2. Do npm install to install all the dependencies
 3. Run node server.js to run the server 
 (or) Launch the project from launch.json with node.js configuration
